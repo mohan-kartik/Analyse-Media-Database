@@ -1,4 +1,4 @@
-# Analyse-Media-Database
+# Analyze-Media-Database
 
 ![image](https://github.com/mohan-kartik/Analyse-Media-Database/assets/42971268/55baabb2-2304-4c4c-a22b-a23e551a35c4)
 
